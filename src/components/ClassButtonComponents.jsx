@@ -1,7 +1,7 @@
-import { Component } from 'react';
+import React, { Component } from 'react';
 
 class ClassButtonComponent extends Component {
-  render(props) {
+  render() {
     return (
       <button
         type='button'
